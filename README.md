@@ -36,7 +36,7 @@ This project focuses on **analyzing vehicle repair data** to extract meaningful 
    ```sh
    pip install pandas seaborn matplotlib scikit-learn fuzzywuzzy python-Levenshtein
 2. **Run the script**
-   sh
+   ```sh
    python data_analysis_task2.py
 
 
